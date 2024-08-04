@@ -30,11 +30,14 @@ Summary
 - [Layer 5 Session Layer](#layer-5-session-layer)
 - [Layer 6 Presentation Layer](#layer-6-presentation-layer)
 - [Layer 7 Application Layer](#layer-7-application-layer)
-
-  
+- [The TCP IP Model](#the-tcp-ip-model)
+- [Link Layer](#link-layer)
+- [Internet Layer](#internet-layer)
+- [Transport Layer](#transport-layer)
+- [Application Layer](#application-layer)
 - [Diagnosing Network Issues](#diagnosing-network-issues)
-
-
+Using the OSI Model
+Using the TCP IP Model
 - [Summary](#summary)
 
 
