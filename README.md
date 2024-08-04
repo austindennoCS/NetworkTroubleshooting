@@ -35,9 +35,9 @@ Summary
 - [Internet Layer](#internet-layer)
 - [Transport Layer](#transport-layer)
 - [Application Layer](#application-layer)
+- [Using OSI Model](#using-the-osi-model)
+- [Using The TCP IP Model](#using-the-tcp-ip-model)
 - [Diagnosing Network Issues](#diagnosing-network-issues)
-Using the OSI Model
-Using the TCP IP Model
 - [Summary](#summary)
 
 
