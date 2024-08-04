@@ -15,7 +15,6 @@ Link Layer
 Internet Layer
 Transport Layer
 Application Layer
-Diagnosing Network Issues
 Using the OSI Model
 Using the TCP IP Model
 Summary
@@ -37,7 +36,6 @@ Summary
 - [Application Layer](#application-layer)
 - [Using OSI Model](#using-the-osi-model)
 - [Using The TCP IP Model](#using-the-tcp-ip-model)
-- [Diagnosing Network Issues](#diagnosing-network-issues)
 - [Summary](#summary)
 
 
@@ -91,7 +89,6 @@ Summary
 <b>Purpose:</b> Combines OSI's Session, Presentation, and Application layers, providing network services to applications.
 <b>Importance:</b> Directly supports user applications and services.
 <b>Troubleshooting:</b> Similar to OSI's Application layer; focus on application-specific issues and use relevant logs and monitors.
-<h2 id="diagnosing-network-issues">Diagnosing Network Issues</h2>
 <h3 id="using-the-osi-model">Using the OSI Model</h3>
 <b>Identify the problem layer:</b> Determine where the issue occurs (e.g., physical connectivity, routing, or application performance).
 <b>Layer-by-layer analysis:</b> Start from the bottom (Physical layer) and work up, checking each layer systematically.
