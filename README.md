@@ -1,24 +1,5 @@
 <h1>Network Troubleshooting Using OSI and TCP/IP Models</h1>
 
-Table of Contents
-Overview
-The OSI Model
-Layer 1 Physical Layer
-Layer 2 Data Link Layer
-Layer 3 Network Layer
-Layer 4 Transport Layer
-Layer 5 Session Layer
-Layer 6 Presentation Layer
-Layer 7 Application Layer
-The TCP IP Model
-Link Layer
-Internet Layer
-Transport Layer
-Application Layer
-Using the OSI Model
-Using the TCP IP Model
-Summary
-
 ## Table of Contents
 - [Overview](#overview)
 - [The OSI Model](#the-osi-model)
